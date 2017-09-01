@@ -57,7 +57,7 @@ public class Docke {
 		
 		
 		
-		jFrame.add(zidiyi,BorderLayout.SOUTH);
+		jFrame.add(zidiyi,BorderLayout.EAST);
 		jFrame.setVisible(true);
 		
 	}
