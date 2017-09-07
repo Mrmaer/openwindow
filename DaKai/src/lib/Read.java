@@ -8,7 +8,6 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Properties;
 
-import org.junit.Test;
 
 public class Read {
 	private static Properties properties;
